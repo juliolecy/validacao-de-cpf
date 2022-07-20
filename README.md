@@ -1,1 +1,2 @@
-# Valida-o-de-CPF
+# Validação de CPF
+Exercício do curso de Javascript e Typescript.
